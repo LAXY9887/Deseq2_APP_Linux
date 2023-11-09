@@ -1,0 +1,5 @@
+Sample,Average_fragment_length,cell_line,RNA_type,Genotype,Name,Annotation
+SRR5886303,230.35,Hela,total,NAT10-/-,NAT10_KO_RNA_seq_1,NAT10_KO_RNA_seq
+SRR5886304,233.07,Hela,total,NAT10-/-,NAT10_KO_RNA_seq_2,NAT10_KO_RNA_seq
+SRR5886305,230.45,Hela,total,WT,NAT10_control_RNA_seq_1,NAT10_control_RNA_seq
+SRR5886306,230.72,Hela,total,WT,NAT10_control_RNA_seq_2,NAT10_control_RNA_seq
