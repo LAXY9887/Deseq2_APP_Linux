@@ -38,7 +38,7 @@ pacman::p_load(rio)
 
 ## Loading files
 countDir <- opt$counts
-files <- paste0(countDir,grep(opt$keyword,list.files(countDir),value = T))
+files <- paste0(countDir,"/",grep(opt$keyword,list.files(countDir),value = T))
 
 ## Making dataFrame & clean up data
 counts.df <- import(files[1],format = "csv")
